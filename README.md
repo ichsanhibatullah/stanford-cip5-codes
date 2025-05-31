@@ -1,2 +1,2 @@
 # stanford-cip5-codes
-Python code on Code In Place (CIP 5) 2025
+Python code lessons documentation from Code In Place 5 Course - 2025 (based on material from the first half of Stanford University's established intro course, CS106A). Code in Place is a free introductory programming course using the Python language.
